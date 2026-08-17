@@ -42,13 +42,6 @@ The project investigates factors such as:
 
 The Power BI dashboard provides an interactive view of 30-day readmission patterns.
 
-![CMS Diabetes Readmission Dashboard](visualization/dashboard.png)
+<img width="1616" height="828" alt="image" src="https://github.com/user-attachments/assets/b19872ea-4468-4449-b3d6-1b2270eda052" />
 
-## 📁 Project Structure
 
-```text
-CMS-diabetes-readmission-analysis/
-├── panda/          # Data cleaning
-├── sql/            # SQL analysis
-├── visualization/  # Power BI dashboard
-└── README.md
