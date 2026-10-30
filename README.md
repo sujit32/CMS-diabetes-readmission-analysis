@@ -37,7 +37,7 @@ The project investigates factors such as:
 
 ## Dashboard
 The Power BI dashboard provides an interactive view of 30-day readmission patterns.
+<img width="1513" height="856" alt="image" src="https://github.com/user-attachments/assets/501d1412-e67a-458a-9c58-88981bd71b2e" />
 
-<img width="1616" height="828" alt="image" src="https://github.com/user-attachments/assets/b19872ea-4468-4449-b3d6-1b2270eda052" />
 
 
